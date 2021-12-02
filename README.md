@@ -1,6 +1,6 @@
-# Mobile-first Crypto Website 🌴
+# Mobile-first Crypto Website 🪙
 ## [Watch it on behance](https://github.com/noesrafa/sell-crypto-online)
-###  Mobile-first Crypto Website 🌴
+###  Mobile-first Crypto Website 🪙
 
 - Crypto NFT website, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
